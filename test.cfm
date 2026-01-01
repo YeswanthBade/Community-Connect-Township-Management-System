@@ -1,0 +1,10 @@
+<cfset application.checked = createObject('component', 'components.login')>
+<cfset application.registration = createObject('component', 'components.registration')>
+<cfset application.emailPhoneChecker = createObject('component', 'components.emailPhone')>
+<cfset application.getdata = createObject('component', 'components.dataTable')>
+<cfset application.visitor = createObject('component', 'components.visitors')>
+<cfset application.newsevents = createObject('component', 'components.newsAndEvents')>
+<cfset application.amenities = createObject('component', 'components.amenities')>
+<cfset application.committee = createObject('component', 'components.committeeUpdates')>
+<cfset application.maintenance = createObject('component', 'components.maintenance')>
+<cfset application.payments = createObject('component', 'components.payments')>

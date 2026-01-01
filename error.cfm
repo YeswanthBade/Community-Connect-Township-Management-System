@@ -1,0 +1,3 @@
+<cfoutput>
+	#session.showError#
+</cfoutput>
